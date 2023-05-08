@@ -13,7 +13,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=melinashk&theme=blueberry&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=melinashk&theme=nord&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=melinashk&theme=algolia&no-frame=false&no-bg=true&margin-w=4)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=melinashk&icon=5&color=1)](https://visitcount.itsvg.in)

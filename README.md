@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Full-stack JavaScript Development.<br>👯 I’m looking to collaborate on design and development.<br>🤝 I’m looking for help with development and data.<br>💬 Ask me about your tech curiosity.<br>⚡ I am keen on design and writing.
+🔭 I’m currently working on Full-stack JavaScript Development.<br>👯 I’m looking to collaborate on design and developer.<br>🤝 I’m looking for help with development and data.<br>💬 Ask me about your tech curiosity.<br>⚡ I am keen on design and writing.
 
 
 ## 🌐 Socials:
